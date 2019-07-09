@@ -41,7 +41,7 @@ rocommunity secret  default    -V all
 ```
 
 # Run the image
-===============
+
 Last but not least we need to run the image ofcourse. Please note that we run the container in read-only mode.
 
 ```shell
